@@ -59,7 +59,7 @@ __[źródło](https://www.pexels.com/photo/light-bulb-against-white-background-2
 
 ## Co dalej?
 
-[Napisz do nas](mailto:hi@fajny-projekt.pl) i działajmy dalej wspólnie!
+[Napisz do nas](mailto:hi@diverseit.io) i działajmy dalej wspólnie!
 
 Pomożemy Ci w wypracowaniu swojej pierwszej lub kolejnej prezentacji.
 
