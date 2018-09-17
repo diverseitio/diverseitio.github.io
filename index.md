@@ -100,8 +100,7 @@ Organizacyjnie:
 Praca u podstaw poprzez inicjatywy
 
 - Mentoring (mentoring nowych osób w IT jest kluczowy dla zwiększenia różnordności w IT. Jedną z inicjatyw, promujących mentoring jest [Tech Leads](https://techleaders.eu/).
-- Praca z młodzieżą (Jedną z inicjatyw, promujących pracę z młodzieżą jest [Akademia Przyszłości](https://akademiaprzyszlosci.org.pl/))
-- Praca z dziećmi (Jedną z inicjatyw, promujących pracę z młodzieżą jest [Devoxx4Kids](http://www.devoxx4kids.org/))
+- Praca z dziećmi i młodzieżą (Jednymi z inicjatyw, promujących pracę z dziećmi i młodzieżą są [Akademia Przyszłości](https://akademiaprzyszlosci.org.pl/) i  [Devoxx4Kids](http://www.devoxx4kids.org/))
 
 ## Co dalej?
 
