@@ -72,7 +72,7 @@ Nowym osobom staramy się pomóc (jeśli sobie tego życzą) w przygotowaniu tem
 
 Wiemy, że tak naprawdę problemy trzeba naprawiać na zupełnie innym poziomie. Należałoby rozmawiać z dziećmi i młodzieży o innym sposobie myślenia. Niestety, nie mamy mocy przerobowych żeby to zrobić. Na szczęście istnieją inne inicjatywy, które w tym zakresie funkcjonują, takie jak:
 
-- [Devoxx4Kids](https://akademiaprzyszlosci.org.pl/o-akademii)
+- [Devoxx4Kids](http://www.devoxx4kids.org/)
 - [Szkoła 3.0](http://szkola30.pl/)
 - [CodeKids](https://coderkids.pl/)
 - [TechLeads](http://techleads.eu), [WomenInTechnology](https://www.womenintechnology.org/)
@@ -101,7 +101,7 @@ Praca u podstaw poprzez inicjatywy
 
 - Mentoring (mentoring nowych osób w IT jest kluczowy dla zwiększenia różnordności w IT. Jedną z inicjatyw, promujących mentoring jest [Tech Leads](http://techleads.eu).
 - Praca z młodzieżą (Jedną z inicjatyw, promujących pracę z młodzieżą jest [Akademia Przyszłości](https://akademiaprzyszlosci.org.pl/))
-- Praca z dziećmi (Jedną z inicjatyw, promujących pracę z młodzieżą jest [Devoxx4Kids](https://akademiaprzyszlosci.org.pl/o-akademii))
+- Praca z dziećmi (Jedną z inicjatyw, promujących pracę z młodzieżą jest [Devoxx4Kids](http://www.devoxx4kids.org/))
 
 ## Co dalej?
 
