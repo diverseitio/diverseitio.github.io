@@ -84,7 +84,7 @@ Wiemy, że tak naprawdę problemy trzeba naprawiać na zupełnie innym poziomie.
 
 Jeśli zainteresowała Cię nasza inicjatywa, poniżej pokazujemy jak możesz się dołączyć.
 
-![Image](img/DiverseIt.png)
+![Image](img/diverse-it.png)
 
 Praca z nowymi osobami:
 
