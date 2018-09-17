@@ -75,7 +75,7 @@ Wiemy, że tak naprawdę problemy trzeba naprawiać na zupełnie innym poziomie.
 - [Devoxx4Kids](http://www.devoxx4kids.org/)
 - [Szkoła 3.0](http://szkola30.pl/)
 - [CodeKids](https://coderkids.pl/)
-- [TechLeads](http://techleads.eu), [WomenInTechnology](https://www.womenintechnology.org/)
+- [TechLeads](https://techleaders.eu/), [WomenInTechnology](https://www.womenintechnology.org/)
 - [Akademia Przyszłości](https://akademiaprzyszlosci.org.pl/)
 
 ![Image](img/gdzie-jestesmy.png)
@@ -99,7 +99,7 @@ Organizacyjnie:
 
 Praca u podstaw poprzez inicjatywy
 
-- Mentoring (mentoring nowych osób w IT jest kluczowy dla zwiększenia różnordności w IT. Jedną z inicjatyw, promujących mentoring jest [Tech Leads](http://techleads.eu).
+- Mentoring (mentoring nowych osób w IT jest kluczowy dla zwiększenia różnordności w IT. Jedną z inicjatyw, promujących mentoring jest [Tech Leads](https://techleaders.eu/).
 - Praca z młodzieżą (Jedną z inicjatyw, promujących pracę z młodzieżą jest [Akademia Przyszłości](https://akademiaprzyszlosci.org.pl/))
 - Praca z dziećmi (Jedną z inicjatyw, promujących pracę z młodzieżą jest [Devoxx4Kids](http://www.devoxx4kids.org/))
 
