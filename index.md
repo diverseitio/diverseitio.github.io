@@ -17,9 +17,9 @@ Istnieje statystycznie znacząca korelacja pomiędzy różnorodnym zespołem zar
 
 Różnorodność nie powinna być postrzegana wyłącznie jako kwestia wizerunkowa, dbająca o dobry PR. Możemy opierać się na konkretnych badaniach, na danych, które jednoznacznie pokazują korzyści z budowania zróżnicowanych zespołów. Nie ma dwóch identycznych osób i każdy ma do zaoferowania  coś osobistego. Aby zrealizować zadane cele, potrzebujemy korzystać z różnych poglądów, doświadczeń, metod. Wyjść poza homogeniczny, jednolity zespół i czerpać wiedzę z więcej niż pojedynczego źródła.
 
-## Kobiety wcale nie mają łatwiej
+## Po co? Przecież mi jest dobrze!
 
-W tym momencie zaczynają podnosić się głosy: nieprawda, jest dobrze, nie wolno sztucznie promować różnorodności (w domyśle kobiet) w jakikolwiek sposób, szczególnie finansowy. Przecież, szczególnie w IT, wszyscy mają tak samo.
+W tym momencie zaczynają podnosić się głosy: nieprawda, jest dobrze, nie wolno sztucznie promować różnorodności (m.in. kobiet) w jakikolwiek sposób, szczególnie finansowy. Przecież, szczególnie w IT, wszyscy mają tak samo.
 
 A jednak nie.
 
@@ -56,6 +56,52 @@ Bogactwo punktów widzenia i szeroka wiedza specjalistyczna są podstawą naszeg
 
 ![Image](img/light-bulb-against-white-background.jpeg)
 __[źródło](https://www.pexels.com/photo/light-bulb-against-white-background-247753/)__
+
+## Jak działamy?
+
+Wyszukujemy konkretne osoby, żeby inspirowały kobiety i mężczyzn swoimi osiągnięciami i postawami
+
+Do końca roku 2019, na spotkaniach w Warszawie i Trójmieście pojawi się co najmniej 9 nowych osób
+
+- które po raz pierwszy dzielą się wiedzą
+- które należą do grup niedoreprezentowanych
+
+Nowym osobom staramy się pomóc (jeśli sobie tego życzą) w przygotowaniu tematu i prezentacji.
+
+## Jak mogę się dołączyć?
+
+Wiemy, że tak naprawdę problemy trzeba naprawiać na zupełnie innym poziomie. Należałoby rozmawiać z dziećmi i młodzieży o innym sposobie myślenia. Niestety, nie mamy mocy przerobowych żeby to zrobić. Na szczęście istnieją inne inicjatywy, które w tym zakresie funkcjonują, takie jak:
+
+- [Devoxx4Kids](https://akademiaprzyszlosci.org.pl/o-akademii)
+- [Szkoła 3.0](http://szkola30.pl/)
+- [CodeKids](https://coderkids.pl/)
+- [TechLeads](http://techleads.eu), [WomenInTechnology](https://www.womenintechnology.org/)
+- [Akademia Przyszłości](https://akademiaprzyszlosci.org.pl/)
+
+![Image](img/gdzie-jestesmy.png)
+
+## Jak mogę się dołączyć?
+
+Jeśli zainteresowała Cię nasza inicjatywa, poniżej pokazujemy jak możesz się dołączyć.
+
+![Image](img/DiverseIt.png)
+
+Praca z nowymi osobami:
+
+- Znajdowanie talentów (rozmowa z ludźmi w Twojej pracy, Twoim otoczeniu o chęci szerzenia wiedzy)
+- Praca z nowymi prelegentami (pomoc w przygotowaniu prezentacji, wyboru tematu prelekcji)
+- Sponsorowanie przyjazdu osób z grup niedoreprezentowanych (opłacenie przylotu / przyjazdu i noclegu dla prelegentów / prelegentek)
+
+Organizacyjnie:
+
+- Redakcja tekstów na stronie (chcielibyśmy, żeby strona zawierała przydatne informacje o pozytywnym wpływie różnorodności)
+- Pomoc w organizacji eventów (niestety, nie potrafimy się jeszcze fizycznie zeskalować - przydałaby się nam Twoja pomoc przy organizacji prelekcji)
+
+Praca u podstaw poprzez inicjatywy
+
+- Mentoring (mentoring nowych osób w IT jest kluczowy dla zwiększenia różnordności w IT. Jedną z inicjatyw, promujących mentoring jest [Tech Leads](http://techleads.eu).
+- Praca z młodzieżą (Jedną z inicjatyw, promujących pracę z młodzieżą jest [Akademia Przyszłości](https://akademiaprzyszlosci.org.pl/))
+- Praca z dziećmi (Jedną z inicjatyw, promujących pracę z młodzieżą jest [Devoxx4Kids](https://akademiaprzyszlosci.org.pl/o-akademii))
 
 ## Co dalej?
 
