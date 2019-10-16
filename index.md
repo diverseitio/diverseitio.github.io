@@ -129,8 +129,7 @@ _Tłumaczenie grafiki:_
 - _4ty kwartyl 1 kwartyl                4ty kwartyl 1 kwartyl_
 - _Różnorodność płciowa                Różnorodność etniczna_
 
-![img](https://de
-_2018-08-01_vskiller.com/wp-content/uploads/2018/10/The-relationship-between-ethnic-diversity-and-performance-by-quartile.png)
+![img](https://devskiller.com/wp-content/uploads/2018/10/The-relationship-between-ethnic-diversity-and-performance-by-quartile.png)
 
 Źródło: [Why Diversity Matters](https://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters)
 
