@@ -358,7 +358,7 @@ Nowym osobom staramy się pomóc (jeśli sobie tego życzą) w przygotowaniu tem
 ## Jak mogę się dołączyć?
 
 Wiemy, że tak naprawdę problemy trzeba naprawiać na zupełnie innym poziomie. Należałoby rozmawiać z dziećmi i młodzieży o innym sposobie myślenia. Niestety, nie mamy mocy przerobowych żeby to zrobić. Na szczęście istnieją inne inicjatywy, które w tym zakresie funkcjonują, takie jak:
-git@github.com:diverseitio/diverseitio.github.io.git
+
 - [Devoxx4Kids](http://www.devoxx4kids.org/)
 - [Szkoła 3.0](http://szkola30.pl/)
 - [CodeKids](https://coderkids.pl/)
