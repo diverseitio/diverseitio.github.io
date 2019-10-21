@@ -129,8 +129,7 @@ _Tłumaczenie grafiki:_
 - _4ty kwartyl 1 kwartyl                4ty kwartyl 1 kwartyl_
 - _Różnorodność płciowa                Różnorodność etniczna_
 
-![img](https://de
-_2018-08-01_vskiller.com/wp-content/uploads/2018/10/The-relationship-between-ethnic-diversity-and-performance-by-quartile.png)
+![img](https://devskiller.com/wp-content/uploads/2018/10/The-relationship-between-ethnic-diversity-and-performance-by-quartile.png)
 
 Źródło: [Why Diversity Matters](https://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters)
 
@@ -359,7 +358,7 @@ Nowym osobom staramy się pomóc (jeśli sobie tego życzą) w przygotowaniu tem
 ## Jak mogę się dołączyć?
 
 Wiemy, że tak naprawdę problemy trzeba naprawiać na zupełnie innym poziomie. Należałoby rozmawiać z dziećmi i młodzieży o innym sposobie myślenia. Niestety, nie mamy mocy przerobowych żeby to zrobić. Na szczęście istnieją inne inicjatywy, które w tym zakresie funkcjonują, takie jak:
-git@github.com:diverseitio/diverseitio.github.io.git
+
 - [Devoxx4Kids](http://www.devoxx4kids.org/)
 - [Szkoła 3.0](http://szkola30.pl/)
 - [CodeKids](https://coderkids.pl/)
